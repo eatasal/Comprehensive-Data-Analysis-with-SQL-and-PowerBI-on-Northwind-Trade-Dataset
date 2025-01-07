@@ -14,8 +14,8 @@ This project involves a comprehensive data analysis of the Northwind Trade datas
 #### Data Exploration:
 - Executed complex SQL queries to extract key metrics and perform exploratory data analysis, including:
   - Sales trends
-  - Customer segmentation
   - Product performance
+  - Logistic/Shipping
 
 #### Advanced Analysis:
 - Implemented advanced SQL techniques such as joins, aggregations, subqueries, and common table expressions (CTEs) to derive meaningful insights from the dataset.
@@ -43,20 +43,17 @@ This project involves a comprehensive data analysis of the Northwind Trade datas
 #### Dashboard Creation:
 - Designed interactive dashboards and reports to visualize:
   - Sales performance
-  - Customer demographics
   - Product popularity
+  - Logistic and shipping analysis
 
 #### Insights Visualization:
-- Created visualizations to identify trends, patterns, and anomalies in sales and customer behavior.
+- Created visualizations to identify trends, patterns, and anomalies in sales, products and logistic process.
 
 ---
 
 ## Key Insights:
 ### Sales Trends:
 - Identified trends in sales over time, peak sales periods, and high-performing regions.
-
-### Customer Segmentation:
-- Analyzed customer behavior to segment customers based on purchase patterns and frequency.
 
 ### Product Performance:
 - Evaluated product performance to determine best-selling products and categories.
