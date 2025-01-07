@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis: Data Analysis on Northwind Trade Dataset with SQL and Visualizing with Power BI
+# Comprehensive Data Analysis: Data Analysis on Northwind Trade Dataset with SQL/Python and Visualizing with Power BI
 
 ## Overview
 This project involves a comprehensive data analysis of the Northwind Trade dataset using SQL for data manipulation and Power BI for visualization. The goal is to uncover insights into trade and sales performance, customer behavior, and product trends through detailed SQL queries and interactive Power BI dashboards.
