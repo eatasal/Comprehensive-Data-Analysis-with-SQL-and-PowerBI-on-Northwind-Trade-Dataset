@@ -49,6 +49,12 @@ This project involves a comprehensive data analysis of the Northwind Trade datas
 #### Insights Visualization:
 - Created visualizations to identify trends, patterns, and anomalies in sales, products and logistic process.
 
+![Northwind Sales Analysis Dashboard](https://raw.githubusercontent.com/eatasal/Comprehensive-Data-Analysis-with-SQL-and-PowerBI-on-Northwind-Trade-Dataset/main/Nortwind%20Sales_Analysis.PNG)
+
+![Northwind Product Analysis Dashboard](https://raw.githubusercontent.com/eatasal/Comprehensive-Data-Analysis-with-SQL-and-PowerBI-on-Northwind-Trade-Dataset/main/Northwind_Product%20Analysis.PNG)
+
+![Northwind Logistic Analysis Dashboard](https://raw.githubusercontent.com/eatasal/Comprehensive-Data-Analysis-with-SQL-and-PowerBI-on-Northwind-Trade-Dataset/main/Northwind_Logistic%20Analysis.PNG)
+
 ---
 
 ## Key Insights:
