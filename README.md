@@ -74,8 +74,8 @@ To reproduce the analysis and visualizations, follow these steps:
 3. **Load the dataset into SQL Server** and execute the provided SQL scripts to perform data analysis.
 4. **Import the results into Power BI** for visualization.
 5. **Explore the dashboards** in Power BI to view insights.
+   
 ---
 
-For any questions or further information, feel free to reach out via email or visit my LinkedIn.
-![image](https://github.com/user-attachments/assets/3803be47-8a23-4ae5-9cc2-38866f7a9931)
-
+### Contact
+For any questions or further information, feel free to reach out via email or visit my [LinkedIn.](https://www.linkedin.com/in/elifatasal/)
